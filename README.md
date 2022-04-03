@@ -1,4 +1,4 @@
-# allot test
+# csv-device-info
 
 ## This script was made with care, love and Javascript.
 
